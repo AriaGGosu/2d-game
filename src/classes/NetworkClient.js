@@ -7,7 +7,7 @@ import {
 } from "../constants.js";
 import { guidGenerator } from "../helpers.js";
 
-const URL = "YOUR-PROJECT-NAME.onrender.com";
+const URL = "https://incandescent-moonbeam-77bef3.netlify.app/";
 
 const NETLIFY_CONFIG = {
   host: URL,
