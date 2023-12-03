@@ -7,7 +7,7 @@ import {
 } from "../constants.js";
 import { guidGenerator } from "../helpers.js";
 
-const URL = "https://incandescent-moonbeam-77bef3.netlify.app/";
+const URL = "https://twod-game-service.onrender.com";
 
 const NETLIFY_CONFIG = {
   host: URL,
